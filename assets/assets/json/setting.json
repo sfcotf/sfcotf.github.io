@@ -1,0 +1,19 @@
+{{
+  "empresa": {
+    "nombre": "SfcoTurf",
+    "pathLogo": "assets/images/logoSantiBrito2.jpg",
+    "appTitulo": "SfcoTurf",
+    "appTituloShort": "SfcoTurf",
+    "agrupadoresAgencias": [{ "codigo": "SFCO010" }],
+    "agrupadoresAgenciasEx": [],
+	"isRegistro": false,
+	"isLogoHeader": true,
+	"isBackgroundTransparentHeader": false,
+	"uriAuthority": "wssvp2.duckdns.org",
+	"baseUrl": "https://wssvp2.duckdns.org/api",
+	"colorPrimarySwatch": "#2fa1e8",
+	"contacto": "https://svpstreaming.duckdns.org/_app/_sfcoturf/_info/Contacto.pdf",
+	"datosBancarios": "https://svpstreaming.duckdns.org/_app/_sfcoturf/_info/DatosBancarios.pdf",
+	"solicitudes": "https://svpstreaming.duckdns.org/_app/_sfcoturf/_info/Solicitudes.pdf"
+  }
+}
